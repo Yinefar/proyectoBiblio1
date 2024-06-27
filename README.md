@@ -1,4 +1,6 @@
 # proyectoBiblio1
-Web application 
+Web application  |   Sales system   |  MVC 
 + C# language
-+ SQL Server 
++ .Net
++ SQL Server
+
